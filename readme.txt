@@ -21,7 +21,7 @@ Installation
 Clone the repository and navigate to the project directory:
 
 bash
-git clone https://github.com/yourusername/automated-security-tool.git
+git clone https://github.com/arthacker619/automated-security-tool
 cd automated-security-tool
 Run the setup script to install all the necessary tools and dependencies:
 
